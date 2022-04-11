@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedScenePath-0:
+      value: 224247031146467e151a09301e22535037040b2f383b69132c3b093cedee7434edf076f9e836267c2d10ea394b0d023afc0f1a44d20e07042e5eac4004f1190708
+      flags: 0
+    RecentlyUsedScenePath-1:
+      value: 224247031146467e151a09301e22535037040b2f383b6914223e1327edf73a78c5e63beca7092b293d0be0732a3f152ae00f493bf708014b5c4ed10106bf201c1dc901852eda1a19d8595a8eef08c2ebd0c59bd9dbeee9ddcd9084f7f9ffaecbf6f4abfee4bdf2c9beb6
+      flags: 0
+    RecentlyUsedScenePath-2:
+      value: 22424703114646680e0b0227036c6c151a1158072d2c2370202c0e3bacf53a31f6fe
+      flags: 0
+    RecentlyUsedScenePath-3:
+      value: 22424703114646680e0b0227036c6f02131119286c3b3229212c5d3ee3f07a2decee22f0
+      flags: 0
+    RecentlyUsedScenePath-4:
+      value: 224247031146467e151a09301e22535037040b2f383b691c223e5d03edec2d78d7eb22e0ea3b2b397927e12a0d2c0e31ff0f071fb63b0b081a1db23d12fa1e16028a489025ef131dc81019dc8308dfeac1cf
+      flags: 0
+    RecentlyUsedScenePath-5:
+      value: 224247031146467e151a09301e22535037040b2f383b691c223e5d03edec2d78d7eb22e0ea3b2b397927e12a0d2c0e31ff0f071fb63b0b081a1db23d12fa1e16028a489625ec1a0fce0b08f1fd18c5f1dadaebdacde6f796cbd1a9e6ed
+      flags: 0
+    RecentlyUsedScenePath-6:
+      value: 224247031146467e151a09301e22535037040b2f383b691c223e5d03edec2d78d7eb22e0ea3b2b397927e12a0d2c0e31ff0f071fb63b0b081a1db23d12fa1e16028a489125e10c10ca171880d813d8f7cc
+      flags: 0
+    RecentlyUsedScenePath-7:
+      value: 224247031146467e151a09301e22535037040b2f383b691c223e5d03edec2d78d7eb22e0ea3b2b397927e12a0d2c0e31ff0f071fb63b0b081a1db23d12fa1e16028a489725ec1a0fce0b0880d813d8f7cc
+      flags: 0
+    RecentlyUsedScenePath-8:
+      value: 224247031146467e151a09301e22535037040b2f383b691c223e5d03edec2d78d7eb22e0ea3b2b397927e12a0d2c0e31ff0f071fb63b0b081a1db23d12fa1e16028a489425ff1610cf5709c0c409c8
+      flags: 0
+    RecentlyUsedScenePath-9:
+      value: 22424703114646680e0b0227036c72190e3a193a623d28393930
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
